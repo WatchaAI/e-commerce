@@ -2,7 +2,7 @@
 
 > 一个 Skill 搞定电商详情页 —— 丢产品图 → 填卖点 → 扔参考页，AI 自动生成
 >
-> 作者：[小喷菇](https://x.com/xpg0970) ｜ 组织：[观猹 WatchaAI](https://github.com/WatchaAI)
+> 作者：[小喷菇](https://x.com/xpg0970) ｜ 
 
 ---
 
