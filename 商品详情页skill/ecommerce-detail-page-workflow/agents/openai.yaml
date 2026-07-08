@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ecommerce Detail Page Workflow"
+  short_description: "Build e-commerce detail pages step by step"
+  default_prompt: "Use $ecommerce-detail-page-workflow to make a detail page step by step: first ask for product images, then product information, then reference style images."
